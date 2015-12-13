@@ -3,7 +3,7 @@
     <string name="google_api_key">YOUR GOOGLE API KEY</string>
     <string name="storage_account_name">YOUR STORAGE ACCOUNT NAME</string>
     <string name="storage_account_key">YOUR STORAGE ACCOUNT KEY</string>
-    <string name="storage_table_name">stats</string>
+    <string name="storage_table_name">YOUR TABLE NAME</string>
     <string name="dialog_title">Sending results ...</string>
     <string name="dialog_message">Was it a good prediction?</string>
     <string name="dialog_button_yes">Yes</string>

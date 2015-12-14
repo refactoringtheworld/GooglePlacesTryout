@@ -1,4 +1,7 @@
 language: android
+
+before_install: chmod +x gradlew
+
 android:
   components:
     # Uncomment the lines below if you want to
@@ -17,6 +20,3 @@ android:
     - extra-google-m2repository
     - extra-android-m2repository
     - addon-google_apis-google-19
-	
-before_install:
-    - chmod +x gradlew
